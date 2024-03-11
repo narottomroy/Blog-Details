@@ -1,0 +1,29 @@
+body {
+    font-family:'Open Sans', sans-serif;
+}
+
+.btn {
+    background-color: #F9710A;
+    color: white;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.btn a {
+    color: white;
+    font-size: 22px;
+}
+
+.btn a:hover{
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: #F9710A;
+    color: white;
+    font-weight: 400;
+}
+
+span {
+    font-weight: bold;
+}
